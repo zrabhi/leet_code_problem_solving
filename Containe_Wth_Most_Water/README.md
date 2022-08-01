@@ -6,10 +6,6 @@ Return the maximum amount of water a container can store.
 
 Notice that you may not slant the container.
 
- 
-
-Example 1:
-
 
 <img width="788" alt="Screen Shot 2022-08-01 at 20 27 09" src="https://user-images.githubusercontent.com/61620962/182230966-0c6d6263-317b-4169-98bb-33653797aadd.png">
 
@@ -28,3 +24,9 @@ Constraints:
 n == height.length
 2 <= n <= 105
 0 <= height[i] <= 104
+
+
+
+my submission :
+
+<img width="788" alt="Screen Shot 2022-08-01 at 20 27 09" src="https://user-images.githubusercontent.com/61620962/182230966-0c6d6263-317b-4169-98bb-33653797aadd.png">
