@@ -7,9 +7,6 @@ Return the maximum amount of water a container can store.
 Notice that you may not slant the container.
 
 
-<img width="788" alt="Screen Shot 2022-08-01 at 20 27 09" src="https://user-images.githubusercontent.com/61620962/182230966-0c6d6263-317b-4169-98bb-33653797aadd.png">
-
-
 Input: height = [1,8,6,2,5,4,8,3,7]
 Output: 49
 Explanation: The above vertical lines are represented by array [1,8,6,2,5,4,8,3,7]. In this case, the max area of water (blue section) the container can contain is 49.
